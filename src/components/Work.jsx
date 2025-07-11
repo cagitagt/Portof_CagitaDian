@@ -3,20 +3,20 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: '/images/project-1.jpg',
-    title: 'Full stack music app',
-    tags: ['API', 'MVC', 'Development'],
-    projectLink: 'https://musify-5al0.onrender.com/'
+    imgSrc: '/images/batikindo.png',
+    title: 'E-Commerce Website',
+    tags: ['Vue.js'],
+    projectLink: 'https://github.com/cagitagt/fe_rev_batik'
   },
   {
-    imgSrc: '/images/project-2.jpg',
-    title: 'Free stock photo app',
-    tags: ['API', 'SPA'],
-    projectLink: 'https://pixstock-official.vercel.app/'
+    imgSrc: '/images/tictactoe.png',
+    title: 'TicTacToe Game',
+    tags: ['JS'],
+    projectLink: 'https://gmticctactoe.netlify.app/'
   },
   {
-    imgSrc: '/images/project-3.jpg',
-    title: 'Recipe app',
+    imgSrc: '/images/flixera.png',
+    title: 'Streaming Service',
     tags: ['Development', 'API'],
     projectLink: ''
   },
