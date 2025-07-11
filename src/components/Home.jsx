@@ -27,7 +27,7 @@ const Home = () => {
           </h2>
 
           <div className='flex items-center gap-3'>
-            <ButtonPrimary label="Download CV" icon="download" target="_blank" href="/files/CagitaDianCV.pdf"/>
+            <ButtonPrimary label="Download CV" icon="download" target="_blank" href="/files/CagitaDian_CV.pdf"/>
             {/* <ButtonPrimary label="Download Portofolio" icon="download"/> */}
 
             < ButtonOutLine href="#about" label="Scroll" icon="arrow_downward"/>
