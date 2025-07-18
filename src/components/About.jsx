@@ -4,10 +4,10 @@ const aboutItems = [
         label: 'Project done',
         number: 5
     },
-    {
-        label: 'Years of Experience',
-        number: 1
-    }
+    // {
+    //     label: 'Years of Experience',
+    //     number: 1
+    // }
 ];
 
 const About = () => {
